@@ -2,6 +2,9 @@
 #include <queue>
 using namespace std;
 
+//输出问题，一个输入多个输出，可以在输入完需输出的指令后即输出
+//但是需要在每个输出后边加上换行符。
+
 //字符串的运算问题看一下 
 //主要考察字符串的运算
 //通过char数组或者string读入字符串，string见GitHub题解
